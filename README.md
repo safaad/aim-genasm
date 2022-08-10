@@ -1,6 +1,6 @@
 # This repository is part of the repository AIM https://github.com/safaad/aim 
 
-# AIM: Alignment-in-Memory Framework for High-throughput Sequence Alignment using Processing-in-Memory
+# AIM: Alignment-in-Memory A Framework for High-throughput Sequence Alignment using Real Processing-in-Memory Systems
 AIM is a framework for high-throughput pairwise sequence alignment
 using processing-in-memory. It targets [UPMEM](https://www.upmem.com/), the first publicly-available
 general-purpose programmable PIM architecture. AIM dispatches a large number
@@ -17,7 +17,8 @@ Our evaluation shows that a real PIM system can substantially outperform CPU sys
 For more information on this project you can refer to the following papers:
 
 Long paper:
-> Coming soon...
+> S. Diab, A. Nassereldine, M. Alser, J. Gómez-Luna, O. Mutlu, και I. E. Hajj, "**[A Framework for High-throughput Sequence Alignment using Real Processing-in-Memory Systems](https://arxiv.org/abs/2208.01243)**". arXiv, 2022.
+
 
 
 HiCOMB22 short paper ([slides](https://people.inf.ethz.ch/omutlu/pub/WFA-PairwiseAlignment-in-PIM_hicomb22-GPU-hicomb22-talk)):
